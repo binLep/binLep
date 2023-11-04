@@ -21,7 +21,7 @@ Rust？~会新建 main 函数~ 回头慢慢学QAQ
 - Linux 下各色各样的 Hook 手段、提权手段；跨平台编译（主要用 mesonbuild）
 - 流量审计方向：snort、suricata
 - 前端技术栈：ReactJS（其实是 react-admin 啦）+ UnoCSS
-- 后端技术栈：Kotlin + SpringBoot + JPA + QueryDSL（构建工具喜欢用 Kotlin DSL）
+- 后端技术栈：Kotlin + SpringBoot + JPA + QueryDSL（构建工具喜欢用 Gradle Kotlin DSL）
 - 曾经是一名 Pwn CTFer，也打过 Kernel Pwn 和 Mobile Pwn，不过现在题目看着越来越卷哩
 
 能学要学的东西好多，不断进步吧
