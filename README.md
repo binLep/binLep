@@ -4,7 +4,7 @@ IOT 安全研究爱好者，仍在学习进步中
 
 能够简单运用的语言：ASM、C、CPP、Golang、Python、Lua、Java、Kotlin
 
-Rust？~会新建 main 函数~ 在学了在学了QAQ
+正在用 Rust 写一些小插件 
 
 - 个人博客：https://binlep.github.io/
 - Lab 学习：https://github.com/binLep/Lab-Course
